@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>dc6d9247-551e-4da9-88d9-f627e8bc4d39</TargetProject>
+    <FriendlyName>Clue</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Colin\AppData\Local\Temp\Clue_20160330.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
